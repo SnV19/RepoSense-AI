@@ -102,7 +102,7 @@ Unlike typical AI-based tools, RepoSenseAI minimizes hallucinations by enforcing
 
 ## Demo
 
-Watch the demo here: https://your-demo-link
+Watch the demo here: https://youtu.be/R5DLEB1332c
 
 ---
 
