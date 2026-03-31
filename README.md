@@ -59,6 +59,15 @@ Unlike typical AI-based tools, RepoSenseAI minimizes hallucinations by enforcing
 5. Refine and return final structured output
 
 ---
+## 🧪 Hackathon Development Journey
+
+Rapid prototyping and development during the hackathon:
+
+- **Backend & LLM Integration:** Node.js server, rule-based filtering, Phi-3 integration via Ollama  
+- **Frontend & Demo:** React + Vite UI, demo screenshot, README, FOSS license compliance  
+
+> Demonstrates efficient full-stack development and AI-powered repository analysis completed entirely within the hackathon timeframe.
+---
 
 ## 🧠 Design Principles
 
