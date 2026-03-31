@@ -38,7 +38,7 @@ Unlike typical AI-based tools, RepoSenseAI minimizes hallucinations by enforcing
 ---
 
 ## 🛠️ Tech Stack
-
+* **Frontend:** React, Vite
 * **Backend:** Node.js
 * **AI Model:** Phi-3 (via Ollama)
 * **API Communication:** Axios
