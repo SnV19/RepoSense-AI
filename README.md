@@ -66,7 +66,7 @@ Rapid prototyping and development during the hackathon:
 - **Backend & LLM Integration:** Node.js server, rule-based filtering, Phi-3 integration via Ollama  
 - **Frontend & Demo:** React + Vite UI, demo screenshot, README, FOSS license compliance  
 
- Demonstrates efficient full-stack development and AI-powered repository analysis completed entirely within the hackathon timeframe.
+Demonstrates efficient full-stack development and AI-powered repository analysis completed entirely within the hackathon timeframe.
 ---
 
 ## 🧠 Design Principles
